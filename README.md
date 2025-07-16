@@ -73,10 +73,6 @@ The goal of this project is to create a comprehensive data analytics dashboard f
 
 ---
 
-## 🖼 Dashboard Preview
-
-> *(Add a screenshot of your Power BI dashboard here)*  
-> Example: `![Dashboard Screenshot](images/dashboard-preview.png)`
 
 ---
 
