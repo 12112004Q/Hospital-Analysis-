@@ -76,13 +76,6 @@ The goal of this project is to create a comprehensive data analytics dashboard f
 
 ---
 
-## 🚀 How to Use
-
-1. Download and open the `Hospital Dashboard.pbix` file using Power BI Desktop.
-2. Load the Excel datasets into Power BI using the Power Query Editor.
-3. Refresh the model to view interactive analytics and drill-downs.
-4. Use slicers and filters for custom views (e.g., by department, doctor, or date).
-
 ---
 
 ## 📁 Repository Contents
